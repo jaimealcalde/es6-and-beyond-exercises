@@ -17,8 +17,8 @@
  */
 
 // Finish the code of the function
-function exercise04() {
-    
+function exercise04(a = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]) {
+    return a[2];
 }
 
 // Don’t change the code bellow this line

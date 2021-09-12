@@ -16,7 +16,10 @@
  */
 
 // Finish the code of the function
-function exercise11() {}
+function exercise11(array, entry) {
+    const entryFind = array.find((el) => el == entry);
+    return entryFind;
+}
 
 // Don’t change the code bellow this line
 import setup11Exercise from "./11-exercise-setup";

@@ -24,7 +24,14 @@
  */
 
 // Finish the code of the function
-function exercise05() {}
+function exercise05(
+    b = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+ a = ["Monday", undefined, "Wednesday", "Thursday", "Friday"]
+) {
+
+return a[1];
+
+}
 
 // Don’t change the code bellow this line
 import setup05Exercise from "./05-exercise-setup";
