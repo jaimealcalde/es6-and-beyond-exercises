@@ -15,12 +15,12 @@
         "url": "https://github.com/assembler-school/es6-and-beyond-exercises.git"
     },
     "dependencies": {
-        "@babel/core": "^7.11.1",
-        "@babel/preset-env": "^7.11.0",
-        "@types/jest": "^26.0.9",
-        "babel-jest": "^26.2.2",
-        "jest": "^26.2.2",
-        "parcel-bundler": "^1.12.4"
+        "@babel/core": "^7.15.5",
+        "@babel/preset-env": "^7.15.6",
+        "@types/jest": "^26.0.24",
+        "babel-jest": "^26.6.3",
+        "jest": "^26.6.3",
+        "parcel-bundler": "^1.12.5"
     },
     "devDependencies": {
         "babel-eslint": "^10.0.3",
